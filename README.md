@@ -7,3 +7,6 @@ Planned projects
 ----------------
 
 -Replicate said Dribbble with 3D Studio Max and 3JS: https://dribbble.com/shots/2577751-On-Fire
+-floating fairy from fairy fountain
+-Navi
+	+Voice recognition with Navi?
